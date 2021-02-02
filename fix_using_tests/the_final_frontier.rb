@@ -14,6 +14,7 @@ def greet_crew
 end
 
 def engage
+  
   puts state_log(star_date)
   puts greet_crew
 end
