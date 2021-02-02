@@ -14,6 +14,6 @@ def crew_greeting
 end
 
 def engage
-  puts state_log
+  puts state_log(star_date)
   puts crew_greeting
 end
