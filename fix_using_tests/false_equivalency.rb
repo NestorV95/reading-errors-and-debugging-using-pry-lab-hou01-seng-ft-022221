@@ -1,7 +1,8 @@
 # don't forget to add: require 'pry'
 
 def get_user_input
-  gets.chomp
+  selection1 = 1
+  selection2 = 2 
 end
 
 def prompt_user
