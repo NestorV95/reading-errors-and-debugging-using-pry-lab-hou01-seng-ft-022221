@@ -1,5 +1,5 @@
 # don't forget to add: require 'pry'
-require "pry"
+
 player1 = "Rocky"
 player2 = "bullwinkle"
 
